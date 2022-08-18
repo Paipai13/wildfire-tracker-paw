@@ -1,4 +1,4 @@
-HELLO!
+#HELLO!
 
 I made this react application with the help of Traversy Media to show NASA's data on wildfires across the world. I did this by fetching their open API (https://eonet.gsfc.nasa.gov/api/v3/events), and displaying it on a Google map API.  His video is a bit outdated and I have made pushes on his git to make it functional. The purposes of this project is to educate myself in API's and react. How to display the information in a cleaer and consice way, I have made my own changes to this applcation as to futjer expand on the knowledge base I already had. 
 
